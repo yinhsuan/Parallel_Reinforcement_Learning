@@ -15,5 +15,3 @@ data/
 results/
 models/
 ```
-
-For data and result files let's upload them to [our Google Drive folder](https://drive.google.com/drive/folders/1FEdclRfkG94itz59VTF9sO-3LBzFKRgZ?usp=sharing).
